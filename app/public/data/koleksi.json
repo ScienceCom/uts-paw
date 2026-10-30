@@ -73,10 +73,10 @@
   },
   {
     "id": "10",
-    "judul": "Vue.js",
-    "kategori": "Framework Web",
-    "teknologi": "TypeScript,JavaScript,HTML",
-    "tahun": "2014",
-    "tautan": "https://github.com/vuejs/core"
+    "judul": "spicetify",
+    "kategori": "Customization Toolkit",
+    "teknologi": "JavaScript,GO,CSS",
+    "tahun": "2026",
+    "tautan": "https://github.com/spicetify/cli"
   }
 ]
