@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Proyek-Pengembangan-Aplikasi-Mobile",
+    "kategori": "Mobile App",
+    "teknologi": "kotlin",
+    "tahun": "2026",
+    "tautan": "https://github.com/ScienceCom/Proyek-Pengembangan-Aplikasi-Mobile"
+  },
+  {
+    "id": "2",
+    "judul": "Pengembangan-WEB-Parkir-Bandung",
+    "kategori": "WebGIS",
+    "teknologi": "Python",
+    "tahun": "2026",
+    "tautan": "https://github.com/DaffaDesuandi2/Pengembangan-WEB-Parkir-Bandung"
+  },
+  {
+    "id": "3",
+    "judul": "immich",
+    "kategori": "WebGIS",
+    "teknologi": "TypeScript,Dart,Python,Kotlin,Swift",
+    "tahun": "2026",
+    "tautan": "https://github.com/immich-app/immich"
+  },
+  {
+    "id": "4",
+    "judul": "InventarisDiskominfo",
+    "kategori": "Web Application",
+    "teknologi": "JavaScript,CSS",
+    "tahun": "2026",
+    "tautan": "https://github.com/DaffaDesuandi2/InventarisDiskominfo"
+  },
+  {
+    "id": "5",
+    "judul": "Visual Studio Code",
+    "kategori": "Code Editor",
+    "teknologi": "TypeScript,JavaScript,HTML,Rust,CSS",
+    "tahun": "2015",
+    "tautan": "https://github.com/microsoft/vscode"
+  },
+  {
+    "id": "6",
+    "judul": "Vite",
+    "kategori": "Build Tool",
+    "teknologi": "TypeScript,JavaScript,HTML,CSS",
+    "tahun": "2020",
+    "tautan": "https://github.com/vitejs/vite"
+  },
+  {
+    "id": "7",
+    "judul": "Next.js",
+    "kategori": "Framework Web",
+    "teknologi": "TypeScript,JavaScript,Rust,CSS",
+    "tahun": "2016",
+    "tautan": "https://github.com/vercel/next.js"
+  },
+  {
+    "id": "8",
+    "judul": "Tailwind CSS",
+    "kategori": "Framework CSS",
+    "teknologi": "TypeScript,Rust",
+    "tahun": "2017",
+    "tautan": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "id": "9",
+    "judul": "React",
+    "kategori": "Library Web",
+    "teknologi": "TypeScript,JavaScript,HTML,Rust,CSS",
+    "tahun": "2013",
+    "tautan": "https://github.com/facebook/react"
+  },
+  {
+    "id": "10",
+    "judul": "Vue.js",
+    "kategori": "Framework Web",
+    "teknologi": "TypeScript,JavaScript,HTML",
+    "tahun": "2014",
+    "tautan": "https://github.com/vuejs/core"
   }
 ]
