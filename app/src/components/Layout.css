@@ -18,3 +18,9 @@
   .kepala { flex-direction: column; gap: 0.5rem; }
   .daftar-kartu { grid-template-columns: 1fr; }
 }
+#halaman-utama { min-height: 100vh; }
+#nav-utama { display: flex; }
+#footer-utama { font-size: 0.8rem; }
+.menu a:hover { text-decoration: underline; }
+.menu a:focus { outline: 2px solid blue; }
+.isi p:first-child { line-height: 1.5; }
