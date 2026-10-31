@@ -18,7 +18,7 @@
   {
     "id": "3",
     "judul": "immich",
-    "kategori": "WebGIS",
+    "kategori": "Web Application",
     "teknologi": "TypeScript,Dart,Python,Kotlin,Swift",
     "tahun": "2026",
     "tautan": "https://github.com/immich-app/immich"
