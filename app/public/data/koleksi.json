@@ -50,7 +50,7 @@
   {
     "id": "7",
     "judul": "Next.js",
-    "kategori": "Framework Web",
+    "kategori": "Framework",
     "teknologi": "TypeScript,JavaScript,Rust,CSS",
     "tahun": "2016",
     "tautan": "https://github.com/vercel/next.js"
@@ -58,7 +58,7 @@
   {
     "id": "8",
     "judul": "Tailwind CSS",
-    "kategori": "Framework CSS",
+    "kategori": "Framework",
     "teknologi": "TypeScript,Rust",
     "tahun": "2017",
     "tautan": "https://github.com/tailwindlabs/tailwindcss"
@@ -74,7 +74,7 @@
   {
     "id": "10",
     "judul": "spicetify",
-    "kategori": "Customization Toolkit",
+    "kategori": "Customization Tool",
     "teknologi": "JavaScript,GO,CSS",
     "tahun": "2026",
     "tautan": "https://github.com/spicetify/cli"
